@@ -1,14 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm ABDULLAH AL ZUBAER</h1>
+<h1 align="center">Hi!, I'm ABDULLAH AL ZUBAER</h1>
 <h3 align="center">I am passionate about building intelligent systems using AI, Machine Learning, and Data Science.</h3>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubaer27" alt="zubaer27" /></a> </p>
+- I’m currently working on **AI & Machine Learning–based projects focusing on Computer Vision, Data Analysis, and intelligent systems**
 
-- 🔭 I’m currently working on **AI & Machine Learning–based projects focusing on Computer Vision, Data Analysis, and intelligent systems**
-
-- 📫 How to reach me **abdullahalzubaer64@gmail.com**
+- How to reach me **abdullahalzubaer64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
